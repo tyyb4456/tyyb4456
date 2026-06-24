@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **GAI in detail**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **anything** about **AI Building Architecture**
 
 - 📫 How to reach me **igntayyab@gmail.com**
 
